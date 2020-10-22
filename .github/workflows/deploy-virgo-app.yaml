@@ -2,7 +2,7 @@ name: Deploy Virgo App
 env:
    DEFAULT_LOCATION: uksouth
    VIRGO_ALIAS: bpvirgo
-#on:
+#on: 
 #  push:
 #    paths:
 #    - LibraQueueHandler/LibraQueueHandler/**
