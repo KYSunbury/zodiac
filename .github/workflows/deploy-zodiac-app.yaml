@@ -3,7 +3,7 @@ env:
    DEFAULT_LOCATION: uksouth
    ZODIAC_ALIAS: bpzodiac
 
-#on:
+#on: 
 #  push:
 #    paths:
 #    - Zodiac.Generator/**
