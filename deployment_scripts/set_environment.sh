@@ -28,3 +28,4 @@ echo "ZODIAC_ALIAS:$ZODIAC_ALIAS" >> deployment-log.html
 echo "DB_ADMIN_USER:$DB_ADMIN_USER" >> deployment-log.html
 echo "AAD_DOMAIN:$AAD_DOMAIN" >> deployment-log.html
 echo "OUTPUT:$OUTPUT" >> deployment-log.html
+ 
